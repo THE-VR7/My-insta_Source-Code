@@ -19,7 +19,7 @@
   "homepage": "https://github.com/THE-VR7/My-Instagram#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.16",
     "nodemon": "^2.0.4"
